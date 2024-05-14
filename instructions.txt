@@ -1,4 +1,0 @@
-pip install -r requirements.txt
-
-Run Data_Analysis.ipynb
-Run Models.ipynb
